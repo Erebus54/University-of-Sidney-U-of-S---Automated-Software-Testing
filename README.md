@@ -2,4 +2,4 @@
 
 
 
-![Image of Yaktocat](https://cdn.worldvectorlogo.com/logos/the-university-of-sydney-3.svg)
+![uni logo](https://cdn.worldvectorlogo.com/logos/the-university-of-sydney-3.svg)
