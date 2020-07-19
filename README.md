@@ -1,1 +1,1 @@
-# University-of-Sidney-U-of-S---Automated-Software-Testing
+# University-of-Sidney- (U of S) - Data-driven Astronomy
